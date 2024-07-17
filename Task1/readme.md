@@ -30,7 +30,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/SyedAejazAhmed/python.git
+   git clone https://github.com/sujan58/OctanetPyDev.git
    cd ATM_Interface
    ```
 2. Install the required Python packages:
